@@ -1,10 +1,10 @@
-# Sessió 0
+# Sprint 2
 
 ## Fet
-- Git configurat
-- SSH configurat
-- Repositori creat
-- Primer commit i push
+- Workflow definit
+- Plantilla de vídeo
+- Primer banc de prompts
+- Regles del projecte
 
 ## Següent
-- Desenvolupar la base de coneixement.
+- Crear 100 idees classificades.
