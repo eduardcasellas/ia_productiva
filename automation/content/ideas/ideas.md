@@ -1,0 +1,52 @@
+# 50 Idees
+
+- [ ] ChatGPT: Resumir reunions #1
+- [ ] ChatGPT: Resumir reunions #2
+- [ ] ChatGPT: Resumir reunions #3
+- [ ] ChatGPT: Crear correus #1
+- [ ] ChatGPT: Crear correus #2
+- [ ] ChatGPT: Crear correus #3
+- [ ] ChatGPT: Analitzar PDFs #1
+- [ ] ChatGPT: Analitzar PDFs #2
+- [ ] ChatGPT: Analitzar PDFs #3
+- [ ] ChatGPT: Preparar entrevistes #1
+- [ ] ChatGPT: Preparar entrevistes #2
+- [ ] ChatGPT: Preparar entrevistes #3
+- [ ] ChatGPT: Excel #1
+- [ ] ChatGPT: Excel #2
+- [ ] ChatGPT: Excel #3
+- [ ] Claude: Analitzar documents #1
+- [ ] Claude: Analitzar documents #2
+- [ ] Claude: Analitzar documents #3
+- [ ] Claude: Redactar informes #1
+- [ ] Claude: Redactar informes #2
+- [ ] Claude: Redactar informes #3
+- [ ] Claude: Comparar contractes #1
+- [ ] Claude: Comparar contractes #2
+- [ ] Claude: Comparar contractes #3
+- [ ] Claude: Documentació tècnica #1
+- [ ] Claude: Documentació tècnica #2
+- [ ] Claude: Documentació tècnica #3
+- [ ] Claude: Brainstorming #1
+- [ ] Claude: Brainstorming #2
+- [ ] Claude: Brainstorming #3
+- [ ] Automatització: Flux n8n #1
+- [ ] Automatització: Flux n8n #2
+- [ ] Automatització: Flux n8n #3
+- [ ] Automatització: Google Sheets #1
+- [ ] Automatització: Google Sheets #2
+- [ ] Automatització: Google Sheets #3
+- [ ] Automatització: Gmail #1
+- [ ] Automatització: Gmail #2
+- [ ] Automatització: Gmail #3
+- [ ] Automatització: Drive #1
+- [ ] Automatització: Drive #2
+- [ ] Automatització: Drive #3
+- [ ] Automatització: Calendar #1
+- [ ] Automatització: Calendar #2
+- [ ] Automatització: Calendar #3
+- [ ] Productivitat: Planificació #1
+- [ ] Productivitat: Planificació #2
+- [ ] Productivitat: Planificació #3
+- [ ] Productivitat: Priorització #1
+- [ ] Productivitat: Priorització #2
