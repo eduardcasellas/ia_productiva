@@ -1,4 +1,4 @@
 # TODO
 
-- [ ] Definir marca
+- [ ] Completar Core
 - [ ] Crear 100 idees

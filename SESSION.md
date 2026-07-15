@@ -1,10 +1,3 @@
-# Sprint 2
+# Sessió
 
-## Fet
-- Workflow definit
-- Plantilla de vídeo
-- Primer banc de prompts
-- Regles del projecte
-
-## Següent
-- Crear 100 idees classificades.
+Core-01 creat.

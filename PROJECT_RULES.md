@@ -1,7 +1,5 @@
-# Project Rules
+# Regles
 
-1. Només publiquem contingut provat.
-2. Cada peça resol un únic problema.
-3. Prioritzem utilitat abans que novetat.
-4. Documentem totes les decisions.
-5. Cada sessió acaba amb commit i push.
+1. Tot a Git.
+2. Cap contingut sense provar.
+3. Commits petits i clars.

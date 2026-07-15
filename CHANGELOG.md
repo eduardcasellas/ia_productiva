@@ -1,4 +1,4 @@
 # Changelog
 
-## v0.1
-- Inicialització del projecte.
+## v1.0-dev
+- Core creat.
