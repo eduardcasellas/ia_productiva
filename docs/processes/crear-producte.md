@@ -1,105 +1,94 @@
-# Procés — Crear Producte Digital
+# Crear Producte
 
 ## Objectiu
 
-Passar d'una idea a un MVP validat amb el mínim temps i recursos.
+Definir el procés estàndard per convertir una idea en un producte desenvolupable.
 
 ---
 
-# Pas 1
+# Procés
 
-Analitzar la idea.
+## 1. Detectar el problema
 
-Prompt:
+Descriure:
 
-content/prompts/analitzador-idees.md
-
----
-
-# Pas 2
-
-Analitzar el mercat.
-
-Prompt:
-
-content/prompts/investigador-mercat.md
+- necessitat
+- públic
+- valor aportat
 
 ---
 
-# Pas 3
+## 2. Validar la idea
 
-Analitzar la competència.
+Analitzar:
 
-Prompt:
-
-content/prompts/analista-competencia.md
-
----
-
-# Pas 4
-
-Definir el MVP.
-
-Prompt:
-
-content/prompts/creador-mvp.md
+- mercat
+- competència
+- diferenciació
 
 ---
 
-# Pas 5
+## 3. Definir el producte
 
-Definir el producte.
+Documentar:
 
-Prompt:
-
-content/prompts/creador-productes.md
-
----
-
-# Pas 6
-
-Definir monetització.
-
-Prompt:
-
-content/prompts/estratega-monetitzacio.md
+- funcionalitats
+- requisits
+- objectius
 
 ---
 
-# Pas 7
+## 4. Planificar
 
-Crear roadmap.
+Crear:
 
-Prompt:
-
-content/prompts/planificador-projectes.md
-
----
-
-# Pas 8
-
-Construir.
+- roadmap
+- fases
+- MVP
 
 ---
 
-# Pas 9
+## 5. Desenvolupar
 
-Validar.
-
----
-
-# Pas 10
-
-Iterar.
+Seguir els processos oficials del framework.
 
 ---
 
-# Criteris de qualitat
+## 6. Revisar
 
-Abans de començar el desenvolupament comprovar:
+Validar qualitat i coherència.
 
-- Problema validat.
-- Mercat suficient.
-- MVP definit.
-- Monetització clara.
-- Primer experiment definit.
+---
+
+## 7. Publicar
+
+Preparar:
+
+- documentació
+- GitHub
+- materials associats
+
+---
+
+## 8. Aprendre
+
+Registrar:
+
+- decisions
+- coneixement
+- lliçons apreses
+
+---
+
+# Resultat esperat
+
+Producte documentat, desenvolupable i escalable.
+
+---
+
+# Documents relacionats
+
+- operating-system.md
+- roadmap.md
+- knowledge-base.md
+```

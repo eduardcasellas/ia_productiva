@@ -1,75 +1,93 @@
-# Procés — Revisió Final
+# Revisió Final
 
 ## Objectiu
 
-Assegurar que qualsevol contingut, producte, automatització o desenvolupament compleix els estàndards del projecte abans de donar-lo per acabat.
+Garantir que qualsevol projecte compleixi els estàndards de qualitat abans de donar-lo per finalitzat.
 
 ---
 
 # Revisió funcional
 
-- Compleix l'objectiu?
-- Resol el problema?
-- Funciona correctament?
+Comprovar:
+
+- tots els objectius assolits
+- funcionalitats completes
+- absència d'errors crítics
 
 ---
 
 # Revisió tècnica
 
-- Hi ha duplicacions?
-- Hi ha complexitat innecessària?
-- Es pot simplificar?
+Verificar:
+
+- arquitectura coherent
+- codi llegible
+- estructura correcta
+- fitxers ben organitzats
+
+---
+
+# Revisió de documentació
+
+Comprovar:
+
+- README actualitzat
+- documentació coherent
+- exemples vàlids
+- enllaços correctes
+
+---
+
+# Revisió del repositori
+
+Verificar:
+
+- sense fitxers temporals
+- sense duplicats
+- estructura consistent
+- nomenclatura correcta
+
+---
+
+# Revisió Git
+
+Comprovar:
+
+- git status net
+- commits descriptius
+- repositori sincronitzat
 
 ---
 
 # Revisió de qualitat
 
-- És clar?
-- És útil?
-- És reutilitzable?
-- És mantenible?
+Confirmar:
+
+- reutilització
+- mantenibilitat
+- simplicitat
+- coherència
 
 ---
 
-# Revisió documental
+# Tancament
 
-S'han actualitzat:
+Si totes les comprovacions són correctes:
 
-- CHANGELOG.md
-- SESSION.md
-- TODO.md
-
-Si aplica.
+- publicar
+- actualitzar CHANGELOG
+- registrar lliçons apreses
 
 ---
 
-# Revisió IA
+# Resultat esperat
 
-Passar el resultat per:
-
-- revisor-critic.md
-
-Aplicar les millores.
+Projecte preparat per publicar amb un nivell de qualitat homogeni.
 
 ---
 
-# Revisió final
+# Documents relacionats
 
-Preguntes obligatòries:
-
-Si avui hagués de començar de zero:
-
-- Ho tornaria a fer igual?
-- Hi ha alguna part que eliminaria?
-- Hi ha alguna automatització possible?
-- El resultat aporta valor real?
-
----
-
-# Estat
-
-Només hi ha tres possibles estats:
-
-- ✅ Aprovat
-- ⚠ Requereix canvis
-- ❌ Rebutjat
+- github-workflow.md
+- release.md
+- lessons-learned.md

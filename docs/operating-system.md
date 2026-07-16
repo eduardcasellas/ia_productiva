@@ -1,72 +1,166 @@
-# IA Productiva Operating System (IA-OS)
+# Operating System
 
-Versió: 0.1
+## Objectiu
 
----
+Aquest document defineix el sistema operatiu de treball d'IA-Productiva.
 
-# Missió
+No descriu programari, sinó la metodologia que han de seguir tant les persones com les IA per desenvolupar projectes de manera consistent.
 
-Aquest repositori és un sistema operatiu per desenvolupar projectes amb intel·ligència artificial.
-
-No és una col·lecció de prompts.
-
-No és una documentació.
-
-És un conjunt de regles, processos, coneixement i eines perquè qualsevol IA pugui treballar sempre de la mateixa manera.
+És el document que estableix el flux de treball oficial del repositori.
 
 ---
 
-# Principis
+# Filosofia
 
-1. Un únic lloc de veritat.
+Cada projecte ha de seguir un procés repetible.
 
-La informació només existeix una vegada.
+L'objectiu és reduir:
 
-No es duplica.
+- improvisació
+- duplicats
+- errors
+- retraball
 
----
+i augmentar:
 
-2. Tot és reutilitzable.
-
-Qualsevol document ha de poder reutilitzar-se en futurs projectes.
-
----
-
-3. Automatitzar abans de repetir.
-
-Si una tasca es repeteix més de tres vegades:
-
-- crear un procés
-- crear un script
-- crear una automatització
+- qualitat
+- reutilització
+- mantenibilitat
+- velocitat
 
 ---
 
-4. Simplicitat.
+# Cicle de treball
 
-Cada fitxer ha de tenir una única responsabilitat.
+Tot projecte ha de seguir aquest ordre.
 
----
+## 1. Definir
 
-5. Decisions documentades.
+Entendre el problema.
 
-Les decisions importants s'han de registrar.
+Resultat esperat:
 
----
-
-6. Coneixement acumulatiu.
-
-Cada projecte ha de fer millor el següent.
+- objectius clars
+- limitacions identificades
+- abast definit
 
 ---
 
-# Flux de treball
+## 2. Planificar
+
+Organitzar la feina.
+
+Crear:
+
+- tasques
+- fases
+- prioritats
+
+---
+
+## 3. Dissenyar
+
+Definir l'arquitectura abans d'implementar.
+
+Evitar començar pel codi.
+
+---
+
+## 4. Desenvolupar
+
+Crear el producte.
+
+Aplicar:
+
+- convencions
+- plantilles
+- processos
+- prompts
+
+---
+
+## 5. Revisar
+
+Verificar:
+
+- qualitat
+- coherència
+- documentació
+- mantenibilitat
+
+---
+
+## 6. Publicar
+
+Preparar:
+
+- documentació
+- repositori
+- release
+- contingut
+
+---
+
+## 7. Aprendre
+
+Registrar:
+
+- decisions
+- lliçons
+- millores
+- coneixement reutilitzable
+
+---
+
+# Regles generals
+
+Cada tasca ha de tenir:
+
+- un objectiu
+- un resultat esperat
+- una definició de finalització
+
+No començar una nova fase sense completar l'anterior, llevat que hi hagi una justificació clara.
+
+---
+
+# Gestió del coneixement
+
+El coneixement es divideix en:
+
+## Temporal
+
+Pertany a:
+
+- SESSION.md
+- TODO.md
+
+---
+
+## Permanent
+
+Pertany a:
+
+- Knowledge Base
+- Glossary
+- Documentation
+
+---
+
+# Flux de documentació
+
+Quan es genera coneixement nou:
+
+1. Validar-lo.
+2. Documentar-lo.
+3. Reutilitzar-lo.
+4. Actualitzar el framework.
+
+---
+
+# Flux de desenvolupament
 
 Idea
-
-↓
-
-Investigació
 
 ↓
 
@@ -78,11 +172,15 @@ Planificació
 
 ↓
 
-Execució
+Arquitectura
 
 ↓
 
-Validació
+Implementació
+
+↓
+
+Revisió
 
 ↓
 
@@ -90,114 +188,54 @@ Documentació
 
 ↓
 
-Automatització
+Publicació
 
 ↓
 
-Reutilització
+Aprenentatge
 
 ---
 
-# Jerarquia
+# Principis
 
-PROJECT.md
+Sempre prioritzar:
 
-↓
-
-PROJECT_RULES.md
-
-↓
-
-Operating System
-
-↓
-
-Processes
-
-↓
-
-Prompts
-
-↓
-
-Templates
-
-↓
-
-Automation
-
-↓
-
-Scripts
-
-↓
-
-Projects
+- simplicitat
+- reutilització
+- coherència
+- documentació
+- qualitat
 
 ---
 
-# Components
+# Millora contínua
 
-## PROJECT
+Cada projecte ha de deixar el framework millor del que estava.
 
-Defineix el projecte.
+Les millores poden convertir-se en:
 
----
-
-## RULES
-
-Defineix les normes.
-
----
-
-## PROCESSES
-
-Defineixen el mètode.
+- nous prompts
+- noves plantilles
+- nous processos
+- noves checklists
+- nous snippets
 
 ---
 
-## PROMPTS
+# Paper de les IA
 
-Especialistes.
+Les IA no només generen contingut.
 
----
+També han de:
 
-## TEMPLATES
-
-Sortides estàndard.
-
----
-
-## AUTOMATION
-
-Redueix treball manual.
-
----
-
-## KNOWLEDGE
-
-Acumula experiència.
-
----
-
-# Regla d'or
-
-Cap fitxer pot existir sense aportar una funció concreta.
-
-Si un document no accelera el treball, millora la qualitat o evita errors, s'ha d'eliminar.
+- detectar incoherències
+- identificar duplicats
+- proposar millores
+- reutilitzar coneixement existent
+- mantenir la consistència del repositori
 
 ---
 
 # Objectiu final
 
-Que qualsevol IA sigui capaç de:
-
-- entendre el projecte
-- seguir els processos
-- utilitzar els prompts correctes
-- generar els fitxers adequats
-- actualitzar la documentació
-- mantenir la qualitat
-- aprendre de les decisions anteriors
-
-sense necessitat d'instruccions addicionals.
+Construir un sistema de treball escalable en què qualsevol IA pugui desenvolupar projectes seguint la mateixa metodologia i obtenint resultats coherents, reutilitzables i de qualitat.

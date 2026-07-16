@@ -1,161 +1,78 @@
-# Procés — Crear Contingut
+# Crear Contingut
 
 ## Objectiu
 
-Produir contingut d'alta qualitat de forma repetible, reutilitzable i orientada a generar actius.
+Definir un procés reutilitzable per generar qualsevol tipus de contingut.
 
 ---
 
-# Entrades
+# Tipus de contingut
 
-- Tema
-- Públic objectiu
-- Objectiu
-- Canal de publicació
+Pot incloure:
 
----
-
-# Pas 1 — Investigació
-
-Utilitzar:
-
-content/prompts/investigador-mercat.md
-
-Obtenir:
-
-- Necessitats del públic
-- Competidors
-- Oportunitats
-- Keywords
-
-Resultat:
-
-Tema validat.
+- articles
+- newsletters
+- vídeos
+- xarxes socials
+- documentació
+- landing pages
 
 ---
 
-# Pas 2 — Estratègia
+# Procés
 
-Utilitzar:
+## 1. Definir l'objectiu
 
-content/prompts/estratega-contingut.md
-
-Definir:
-
-- Missatge principal
-- Formats
-- CTA
-- Reutilització
-
-Resultat:
-
-Pla del contingut.
+Què ha d'aconseguir el contingut.
 
 ---
 
-# Pas 3 — Redacció
+## 2. Identificar el públic
 
-Utilitzar:
+Determinar:
 
-content/prompts/generador-contingut.md
-
-Crear:
-
-- Esborrany complet
-
-Resultat:
-
-Versió 1.
+- nivell tècnic
+- necessitats
+- problema que es resol
 
 ---
 
-# Pas 4 — Revisió
+## 3. Preparar l'estructura
 
-Utilitzar:
-
-content/prompts/revisor-critic.md
-
-Corregir:
-
-- Errors
-- Repeticions
-- Informació absent
-- Coherència
-
-Resultat:
-
-Versió millorada.
+Crear un esquema abans d'escriure.
 
 ---
 
-# Pas 5 — SEO
+## 4. Redactar
 
-Utilitzar:
-
-content/prompts/analista-seo.md
-
-Generar:
-
-- Meta title
-- Meta description
-- Keywords
-- Slug
-
-Resultat:
-
-Contingut optimitzat.
+Seguir les convencions del projecte.
 
 ---
 
-# Pas 6 — Reutilització
+## 5. Revisar
 
-Convertir el contingut en:
+Verificar:
 
-- LinkedIn
-- Newsletter
-- Vídeo
-- Carrusel
-- Fil de X
-
----
-
-# Pas 7 — Publicació
-
-Publicar.
-
-Registrar:
-
-- Data
-- URL
-- Plataforma
+- claredat
+- coherència
+- ortografia
+- qualitat
 
 ---
 
-# Pas 8 — Seguiment
+## 6. Publicar
 
-Després de 7 dies registrar:
-
-- Visites
-- CTR
-- Temps de lectura
-- Conversió
-- Aprenentatges
-
-Guardar els resultats a:
-
-docs/lessons-learned.md
+Guardar el contingut i registrar-lo si és reutilitzable.
 
 ---
 
-# Criteris de qualitat
+# Resultat esperat
 
-Abans de publicar comprovar:
+Contingut útil, clar i reutilitzable.
 
-- Resol un problema real.
-- Té una CTA.
-- Aporta informació nova.
-- Està revisat.
-- Està optimitzat per SEO.
-- Té almenys tres reutilitzacions preparades.
+---
 
-Si alguna resposta és "No", el procés no està complet.
+# Documents relacionats
+
+- conventions.md
+- knowledge-base.md

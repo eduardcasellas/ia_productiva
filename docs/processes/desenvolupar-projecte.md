@@ -1,152 +1,97 @@
-# Procés — Desenvolupar un Projecte
+# Desenvolupar Projecte
 
 ## Objectiu
 
-Desenvolupar qualsevol projecte de forma ordenada, minimitzant errors i assegurant que cada fase aporta valor abans de passar a la següent.
+Definir el flux de treball oficial per desenvolupar qualsevol projecte utilitzant IA-Productiva.
 
 ---
 
-# Entrades
+# Fases
 
-- Idea validada
-- Objectiu
-- Públic objectiu
-- Recursos disponibles
+## 1. Comprensió
 
----
+Analitzar:
 
-# Fase 1 — Descobriment
-
-Objectiu:
-
-Entendre completament el problema.
-
-Accions:
-
-- Definir el problema.
-- Identificar el client.
-- Analitzar el mercat.
-- Analitzar la competència.
-
-Prompts:
-
-- analitzador-idees.md
-- investigador-mercat.md
-- analista-competencia.md
-
-Resultat:
-
-Problema validat.
+- objectius
+- requisits
+- limitacions
 
 ---
 
-# Fase 2 — Disseny
+## 2. Planificació
 
-Objectiu:
+Definir:
 
-Definir la solució.
-
-Accions:
-
-- Crear MVP.
-- Definir funcionalitats.
-- Definir arquitectura.
-- Definir monetització.
-
-Prompts:
-
-- creador-mvp.md
-- creador-productes.md
-- arquitecte-saas.md
-- estratega-monetitzacio.md
-
-Resultat:
-
-Especificació funcional.
+- arquitectura
+- tasques
+- prioritats
+- cronograma
 
 ---
 
-# Fase 3 — Planificació
+## 3. Disseny
 
-Objectiu:
+Preparar:
 
-Dividir el projecte en tasques executables.
-
-Accions:
-
-- Crear roadmap.
-- Prioritzar.
-- Detectar dependències.
-- Definir riscos.
-
-Prompt:
-
-planificador-projectes.md
-
-Resultat:
-
-Backlog inicial.
+- estructura
+- documentació
+- processos
 
 ---
 
-# Fase 4 — Desenvolupament
+## 4. Desenvolupament
 
-Objectiu:
+Implementar la solució.
 
-Construir només el MVP.
-
-Regles:
-
-- No afegir funcionalitats noves.
-- Evitar perfeccionisme.
-- Validar contínuament.
-
-Resultat:
-
-Versió funcional.
+Aplicar les convencions del repositori.
 
 ---
 
-# Fase 5 — Validació
+## 5. Validació
 
-Mesurar:
+Revisar:
 
-- Usuaris.
-- Feedback.
-- Errors.
-- Conversió.
-- Temps d'ús.
-
-Resultat:
-
-Decidir:
-
-- Continuar.
-- Pivotar.
-- Cancel·lar.
+- qualitat
+- coherència
+- mantenibilitat
 
 ---
 
-# Fase 6 — Escalat
+## 6. Documentació
 
-Només després de validar.
-
-Accions:
-
-- Automatitzar.
-- Millorar UX.
-- Optimitzar rendiment.
-- Internacionalitzar.
+Actualitzar tots els documents afectats.
 
 ---
 
-# Checklist
+## 7. Publicació
 
-Abans de passar de fase comprovar:
+Fer:
 
-- Els objectius estan complerts.
-- Les decisions estan documentades.
-- Els riscos estan identificats.
-- El següent pas és clar.
+- commit
+- push
+- release (si correspon)
 
-Si alguna resposta és "No", no avançar de fase.
+---
+
+## 8. Aprenentatge
+
+Registrar:
+
+- decisions
+- lliçons apreses
+- coneixement reutilitzable
+
+---
+
+# Resultat esperat
+
+Projecte complet, documentat i alineat amb els estàndards del framework.
+
+---
+
+# Documents relacionats
+
+- operating-system.md
+- architecture.md
+- decision-log.md
+- lessons-learned.md
