@@ -5175,3 +5175,190 @@ Per cada categoria definiré:
 - 5 idees mitjanes/avançades (títols)
 - Criteris d'inclusió
 - Idiomes disponibles
+
+
+## Resposta de la IA (ia_productiva)
+
+# Anàlisi i Planificació
+
+## Estat Actual del Projecte
+
+He carregat el context seguint l'ordre definit a `docs/context-loading.md`.
+
+### Documentació existent confirmada
+- **PROJECT_RULES.md**: 3 regles fonamentals
+- **PROJECT.md**: Missió: ensenyar IA pràctica en català i castellà
+- **TODO.md**: 2 tasques completades (Core, 100 idees)
+- **SESSION.md**: Última sessió: CORE-02
+- **docs/architecture.md**: 10 capes del repositori, 7 principis
+- **docs/conventions.md**: Nomenclatura, format, estil
+- **docs/ai-behavior.md**: Comportament esperat de la IA
+- **docs/context-loading.md**: Ordre de càrrega de context
+- **docs/decision-log.md**: 1 decisió registrada (CORE-02)
+
+### Manca identificada
+- Sense prompts documentats
+- Sense templates
+- Sense recursos reutilitzables
+- Sense estructura de carpetes operativa (excepte `docs/`)
+
+---
+
+## Anàlisi de la Situació
+
+### Problema detectat
+El TODO.md no té cap tasca pendent, però el repositori encara no és completament operatiu.
+
+### Què falta realment?
+Segons l'arquitectura, el Core hauria d'incloure:
+
+1. **Estructura de carpetes** - No existeix
+2. **Documentació essencial** - Falta README, ROADMAP, CHANGELOG, glossary, operating-system
+3. **Prompts** - No n'hi ha cap
+4. **Templates** - No n'hi ha cap
+5. **Automatització** - No n'hi ha cap
+6. **Recursos** - No n'hi ha cap
+
+### Per què TODO.md està buit?
+Les tasques "Completar Core" i "Crear 100 idees" estan marcades com a completades, però el Core no es va implementar mai físicament. Només es va planificar.
+
+---
+
+## Proposta de Solució
+
+### Decisió: Reactivar el Core
+
+Proposo reactivar el pla original de 6 fases, ara amb l'experiència de les sessions anteriors.
+
+### Ordre d'Execució
+
+```
+Fase 1: Estructura de carpetes
+  ↓
+Fase 2: Documentació essencial (README, ROADMAP, CHANGELOG, glossary, operating-system)
+  ↓
+Fase 3: Prompts inicials (3 prompts)
+  ↓
+Fase 4: Templates (3 templates)
+  ↓
+Fase 5: Automatització (GitHub Actions + scripts)
+  ↓
+Fase 6: Recursos (checklists + snippets)
+```
+
+### Fase 1: Estructura de Carpetes
+
+```
+content/
+  prompts/
+  templates/
+resources/
+  snippets/
+  checklists/
+automation/
+  github/
+  scripts/
+website/
+  pages/
+branding/
+assets/
+  images/
+  icons/
+analytics/
+archive/
+```
+
+### Fase 2: Documentació Essencial
+
+| Document | Propòsit |
+|----------|----------|
+| `README.md` | Presentació del projecte |
+| `ROADMAP.md` | Visió a llarg termini |
+| `CHANGELOG.md` | Historial de canvis |
+| `docs/glossary.md` | Terminologia del projecte |
+| `docs/operating-system.md` | Sistema operatiu per a IA |
+
+### Fase 3: Prompts Inicials
+
+1. **Prompt de configuració inicial** - Per quan una IA arriba per primera vegada al repositori
+2. **Prompt de generació de documentació** - Per crear nous documents seguint les convencions
+3. **Prompt de revisió** - Per validar que el contingut compleix les regles
+
+### Fase 4: Templates
+
+1. **Template de document** - Estructura base per a qualsevol document nou
+2. **Template de prompt** - Estructura per crear nous prompts
+3. **Template de sessió** - Per documentar sessions de treball
+
+### Fase 5: Automatització
+
+**GitHub Actions:**
+- `validate-markdown.yml`
+- `check-conventions.yml`
+- `lint-links.yml`
+
+**Scripts locals:**
+- `scripts/init-project.sh`
+- `scripts/validate.sh`
+
+### Fase 6: Recursos
+
+**Checklists:**
+- `checklists/new-feature.md`
+- `checklists/new-document.md`
+
+**Snippets:**
+- `snippets/git-commands.md`
+- `snippets/markdown-examples.md`
+
+---
+
+## Riscos Identificats
+
+| Risc | Impacte | Probabilitat | Mitigació |
+|------|---------|--------------|-----------|
+| Massa contingut de cop | Baixa qualitat | Alta | Generar per fases |
+| Prompts no provats | Errors | Mitjana | Testejar cada prompt |
+| Dependències no resoltes | Bloqueig | Baixa | Verificar prerequisits |
+
+---
+
+## Mètriques d'Èxit
+
+- [ ] Totes les carpetes de l'arquitectura existeixen
+- [ ] `README.md` publicat
+- [ ] `ROADMAP.md` definit
+- [ ] `CHANGELOG.md` inicialitzat
+- [ ] `docs/glossary.md` creat
+- [ ] `docs/operating-system.md` creat
+- [ ] Mínim 3 prompts operatius
+- [ ] Mínim 3 templates disponibles
+- [ ] GitHub Actions funcionant
+- [ ] Scripts bàsics creats
+- [ ] Checklists operatives
+- [ ] Snippets disponibles
+
+---
+
+## Decisió a Registrar
+
+**Data:** 2026-07-16
+
+**Títol:** Reactivació del Core IA-Productiva
+
+**Context:** El TODO.md no té tasques pendents, però el repositori no és operatiu. Les tasques "Completar Core" i "Crear 100 idees" van ser planificades però no executades físicament.
+
+**Decisió:** Reactivar el pla original de 6 fases per implementar el Core físicament.
+
+**Conseqüències:** El repositori tindrà una base operativa completa.
+
+**Documents relacionats:**
+- docs/architecture.md
+- docs/conventions.md
+- TODO.md
+
+---
+
+## Confirmació
+
+Vols que iniciï amb la **Fase 1: Estructura de Carpetes**?
