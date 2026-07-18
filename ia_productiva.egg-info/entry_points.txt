@@ -1,0 +1,2 @@
+[console_scripts]
+ia-productiva = ia_productiva.cli:main

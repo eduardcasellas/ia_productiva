@@ -1,0 +1,14 @@
+README.md
+setup.py
+ia_productiva/__init__.py
+ia_productiva/cli.py
+ia_productiva/context.py
+ia_productiva/ia_adapter.py
+ia_productiva/prompt.py
+ia_productiva/task.py
+ia_productiva.egg-info/PKG-INFO
+ia_productiva.egg-info/SOURCES.txt
+ia_productiva.egg-info/dependency_links.txt
+ia_productiva.egg-info/entry_points.txt
+ia_productiva.egg-info/requires.txt
+ia_productiva.egg-info/top_level.txt
