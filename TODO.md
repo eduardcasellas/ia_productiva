@@ -10,10 +10,6 @@
 - [x] Fase 5: Automatització
 - [x] Fase 6: Recursos
 
----
-
-# Properes Fases
-
 ## Fase 7: Contingut Inicial
 
 Objectiu: Generar el primer contingut real utilitzant els recursos del Core.
