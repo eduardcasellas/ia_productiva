@@ -14,7 +14,7 @@
 
 Objectiu: Generar el primer contingut real utilitzant els recursos del Core.
 
-- [ ] Guia ràpida d'inici (README ampliat)
+- [x] Guia ràpida d'inici (README ampliat)
 - [ ] Exemple pràctic d'ús dels prompts
 - [ ] Tutorial: Crear un prompt des de zero
 - [ ] Validar que els prompts funcionen correctament
