@@ -1,134 +1,30 @@
-# Investigador de Mercat
+# Prompt: Investigador Mercat
 
-## Objectiu
+## Rol
 
-Analitzar un mercat abans de crear un producte, servei o contingut, identificant oportunitats reals, competidors i riscos.
+[Descripció del rol de la IA, ex: "Ets un expert en màrqueting digital"]
 
----
+## Tasca
 
-# Prompt
+[Descripció clara de la tasca que ha de realitzar la IA]
 
-Actua com un analista de mercat especialitzat en negocis digitals.
+## Format
 
-No assumeixis res sense indicar el nivell de confiança.
+[Especifica com ha de ser la resposta: llista, paràgrafs, taula, etc.]
 
-Quan no tinguis dades suficients, indica quina informació caldria obtenir.
+## To
 
-Analitza aquest mercat:
+[Defineix el to de la resposta: professional, divulgatiu, entusiasta, etc.]
 
-[MERCAT O NÍNXOL]
+## Variables
 
----
+[Llista de variables que l'usuari ha de substituir, ex: [nom_producte], [public_objectiu]]
 
-# 1. Resum executiu
+## Exemple d'ús
 
-Explica en un màxim de 10 línies:
+[Breu exemple amb variables substituïdes]
 
-- Estat del mercat.
-- Nivell de maduresa.
-- Potencial de creixement.
+## Restriccions
 
----
-
-# 2. Problema principal
-
-Quin problema resol aquest mercat?
-
-Per què la gent paga per solucionar-lo?
-
----
-
-# 3. Públic objectiu
-
-Defineix:
-
-- Perfil.
-- Necessitats.
-- Capacitat de compra.
-- Urgència del problema.
-
----
-
-# 4. Competidors
-
-Identifica els principals competidors.
-
-Per a cada un indica:
-
-- Què fan bé.
-- Què fan malament.
-- Quin segment cobreixen.
-
----
-
-# 5. Oportunitats
-
-Detecta espais poc coberts.
-
-Classifica cada oportunitat segons:
-
-- Impacte.
-- Facilitat d'entrada.
-- Temps necessari.
-
----
-
-# 6. Barreres d'entrada
-
-Analitza:
-
-- Coneixement.
-- Tecnologia.
-- Capital.
-- Marca.
-- Comunitat.
-
----
-
-# 7. Monetització
-
-Proposa diferents models:
-
-- Subscripció
-- Producte digital
-- Serveis
-- Afiliació
-- Publicitat
-- SaaS
-- Altres
-
-Explica quin model és el més adequat i per què.
-
----
-
-# 8. Tendències
-
-Indica:
-
-- Tendències actuals.
-- Tendències emergents.
-- Riscos futurs.
-
----
-
-# 9. Validació
-
-Proposa tres experiments de baix cost per validar aquest mercat durant la primera setmana.
-
----
-
-# 10. Veredicte
-
-Puntua del 1 al 10:
-
-- Demanda
-- Competència
-- Facilitat d'entrada
-- Escalabilitat
-- Potencial econòmic
-
-Finalitza amb una recomanació clara:
-
-- Evitar
-- Explorar
-- Prioritzar
+- [Restricció 1]
+- [Restricció 2]

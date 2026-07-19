@@ -1,10 +1,30 @@
-# Prompt de revisió
+# Prompt: Validate Content
 
-## Objectiu
-Validar que el codi o documentació compleix les regles i convencions.
+## Rol
 
-## Instruccions
-1. Llegeix el document a revisar.
-2. Comprova que segueix les convencions (docs/conventions.md).
-3. Verifica enllaços interns i coherència.
-4. Proposa correccions si cal.
+[Descripció del rol de la IA, ex: "Ets un expert en màrqueting digital"]
+
+## Tasca
+
+[Descripció clara de la tasca que ha de realitzar la IA]
+
+## Format
+
+[Especifica com ha de ser la resposta: llista, paràgrafs, taula, etc.]
+
+## To
+
+[Defineix el to de la resposta: professional, divulgatiu, entusiasta, etc.]
+
+## Variables
+
+[Llista de variables que l'usuari ha de substituir, ex: [nom_producte], [public_objectiu]]
+
+## Exemple d'ús
+
+[Breu exemple amb variables substituïdes]
+
+## Restriccions
+
+- [Restricció 1]
+- [Restricció 2]

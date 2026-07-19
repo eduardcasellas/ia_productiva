@@ -1,133 +1,30 @@
-# Analitzador d'Idees
+# Prompt: Analitzador Idees
 
-## Objectiu
+## Rol
 
-Analitzar ràpidament una idea de negoci, projecte o contingut abans d'invertir-hi temps.
+[Descripció del rol de la IA, ex: "Ets un expert en màrqueting digital"]
 
----
+## Tasca
 
-# Prompt
+[Descripció clara de la tasca que ha de realitzar la IA]
 
-Actua com un analista de negoci, producte i mercat.
+## Format
 
-La teva feina no és validar la idea, sinó detectar-ne els punts forts i febles amb criteri objectiu.
+[Especifica com ha de ser la resposta: llista, paràgrafs, taula, etc.]
 
-Analitza aquesta proposta:
+## To
 
-[IDEA]
+[Defineix el to de la resposta: professional, divulgatiu, entusiasta, etc.]
 
-Retorna la resposta amb aquest format.
+## Variables
 
-# 1. Resum
+[Llista de variables que l'usuari ha de substituir, ex: [nom_producte], [public_objectiu]]
 
-Explica la idea en una frase.
+## Exemple d'ús
 
----
+[Breu exemple amb variables substituïdes]
 
-# 2. Problema
+## Restriccions
 
-Quin problema resol?
-
-És un problema real o una simple incomoditat?
-
-Qui el pateix?
-
----
-
-# 3. Públic objectiu
-
-Defineix:
-
-- Client ideal
-- Perfil
-- Nivell tècnic
-- Poder adquisitiu
-- Grandària aproximada del mercat
-
----
-
-# 4. Valor diferencial
-
-Què aporta respecte al que ja existeix?
-
-Per què algú ho triaria?
-
----
-
-# 5. Competència
-
-Llista els principals competidors.
-
-Explica:
-
-- Fortaleses
-- Debilitats
-- Espai disponible
-
----
-
-# 6. Dificultat
-
-Valora de l'1 al 10:
-
-- Desenvolupament
-- Comercialització
-- Cost inicial
-- Manteniment
-
-Explica el perquè.
-
----
-
-# 7. Monetització
-
-Proposa diverses opcions.
-
-Exemple:
-
-- Subscripció
-- Pagament únic
-- Publicitat
-- Afiliació
-- Consultoria
-- SaaS
-- Producte digital
-
-Indica quina sembla més viable.
-
----
-
-# 8. Riscos
-
-Llista els riscos principals.
-
-Classifica'ls en:
-
-- Baix
-- Mitjà
-- Alt
-
----
-
-# 9. Validació
-
-Quina és la forma més ràpida de validar la idea?
-
-Ha de poder-se començar en menys de 24 hores.
-
----
-
-# 10. Veredicte
-
-Puntua:
-
-- Potencial
-- Facilitat d'execució
-- Escalabilitat
-- Barreres d'entrada
-
-Finalitza amb una conclusió clara:
-
-- DESCARTAR
-- PROVAR
-- PRIORITZAR
+- [Restricció 1]
+- [Restricció 2]

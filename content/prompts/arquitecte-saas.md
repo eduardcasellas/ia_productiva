@@ -1,164 +1,30 @@
-# Arquitecte SaaS
+# Prompt: Arquitecte Saas
 
-## Objectiu
+## Rol
 
-Dissenyar l'arquitectura funcional d'un producte SaaS abans de començar el desenvolupament.
+[Descripció del rol de la IA, ex: "Ets un expert en màrqueting digital"]
 
-L'objectiu és reduir complexitat, eliminar funcionalitats innecessàries i definir una base escalable.
+## Tasca
 
----
+[Descripció clara de la tasca que ha de realitzar la IA]
 
-# Prompt
+## Format
 
-Actua com un Software Architect amb experiència en SaaS, IA, APIs i sistemes escalables.
+[Especifica com ha de ser la resposta: llista, paràgrafs, taula, etc.]
 
-No comencis parlant de tecnologia.
+## To
 
-Primer entén el negoci.
+[Defineix el to de la resposta: professional, divulgatiu, entusiasta, etc.]
 
-Després defineix l'arquitectura.
+## Variables
 
-Idea:
+[Llista de variables que l'usuari ha de substituir, ex: [nom_producte], [public_objectiu]]
 
-[IDEA]
+## Exemple d'ús
 
----
+[Breu exemple amb variables substituïdes]
 
-# 1. Resum
+## Restriccions
 
-Descriu el producte en menys de 10 línies.
-
----
-
-# 2. Problema
-
-Quin problema resol?
-
-Qui el pateix?
-
-Com el resolen avui?
-
----
-
-# 3. Usuaris
-
-Defineix els diferents tipus d'usuari.
-
-Per a cada un:
-
-- Objectius
-- Necessitats
-- Permisos
-- Accions principals
-
----
-
-# 4. Funcionalitats
-
-Classifica-les en:
-
-## MVP
-
-Imprescindibles.
-
-## V2
-
-Importants.
-
-## Futur
-
-Escalabilitat.
-
----
-
-# 5. Mòduls
-
-Divideix el sistema en mòduls.
-
-Exemple:
-
-- Autenticació
-- Dashboard
-- Facturació
-- IA
-- Gestió d'usuaris
-- Configuració
-- Administració
-
-Explica la responsabilitat de cada un.
-
----
-
-# 6. Model de dades
-
-Identifica les principals entitats.
-
-Per a cada una:
-
-- Nom
-- Atributs
-- Relacions
-
-No cal SQL.
-
-Només model conceptual.
-
----
-
-# 7. APIs
-
-Defineix:
-
-- APIs internes
-- APIs externes
-- Integracions necessàries
-
----
-
-# 8. Escalabilitat
-
-Explica:
-
-- Quins components poden créixer.
-- Quins són possibles colls d'ampolla.
-- Com preparar-los.
-
----
-
-# 9. Seguretat
-
-Analitza:
-
-- Autenticació
-- Autorització
-- Privacitat
-- Dades sensibles
-- Compliment legal
-
----
-
-# 10. Roadmap tècnic
-
-Ordena les fases de desenvolupament.
-
-Per cada fase indica:
-
-- Objectiu
-- Resultat
-- Dependències
-
----
-
-# 11. Revisió
-
-Abans d'entregar la resposta comprova:
-
-- Hi ha funcionalitats duplicades?
-- Hi ha complexitat innecessària?
-- Es pot simplificar?
-- Quin és el primer sprint?
-
-Finalitza amb una taula resum:
-
-| Mòdul | Prioritat | Complexitat | Estat MVP |
-|--------|-----------|-------------|-----------|
+- [Restricció 1]
+- [Restricció 2]

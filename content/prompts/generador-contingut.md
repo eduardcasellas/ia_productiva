@@ -1,95 +1,30 @@
-# Generador de Contingut
+# Prompt: Generador Contingut
 
-## Objectiu
+## Rol
 
-Transformar una idea en una peça de contingut útil, clara i orientada a aportar valor real a l'audiència.
+[Descripció del rol de la IA, ex: "Ets un expert en màrqueting digital"]
 
----
+## Tasca
 
-# Prompt
+[Descripció clara de la tasca que ha de realitzar la IA]
 
-Actua com un estrateg de contingut i redactor expert.
+## Format
 
-No escriguis contingut genèric ni frases buides.
+[Especifica com ha de ser la resposta: llista, paràgrafs, taula, etc.]
 
-El teu objectiu és crear una peça que sigui útil, concreta i fàcil de consumir.
+## To
 
-Informació d'entrada:
+[Defineix el to de la resposta: professional, divulgatiu, entusiasta, etc.]
 
-Tema:
-[Pega aquí el tema]
+## Variables
 
-Públic:
-[Públic objectiu]
+[Llista de variables que l'usuari ha de substituir, ex: [nom_producte], [public_objectiu]]
 
-Objectiu:
-(Informar, vendre, captar leads, educar, posicionar...)
+## Exemple d'ús
 
-Format:
-(Article, LinkedIn, newsletter, vídeo, etc.)
+[Breu exemple amb variables substituïdes]
 
----
+## Restriccions
 
-# Procés
-
-1. Resumeix el tema en una frase.
-
-2. Explica quin problema resol.
-
-3. Defineix els 3 missatges principals.
-
-4. Proposa una estructura clara.
-
-5. Escriu el contingut.
-
----
-
-# Requisits
-
-- Evita repeticions.
-- Evita frases de farciment.
-- Utilitza exemples pràctics.
-- Cada apartat ha d'aportar informació nova.
-- Escriu de forma clara i precisa.
-
----
-
-# Títols
-
-Proposa 10 títols ordenats de millor a pitjor.
-
----
-
-# SEO (si aplica)
-
-Genera:
-
-- Paraula clau principal
-- 5 paraules clau secundàries
-- Meta descripció
-- Slug
-
----
-
-# Reutilització
-
-Explica com convertir aquest contingut en:
-
-- Un post de LinkedIn
-- Un fil de X
-- Un vídeo curt
-- Una newsletter
-- Una guia PDF
-
----
-
-# Autoavaluació
-
-Puntua del 1 al 10:
-
-- Claredat
-- Utilitat
-- Originalitat
-- Capacitat de conversió
-
-Si alguna puntuació és inferior a 8, reescriu automàticament aquella part abans de donar la resposta final.
+- [Restricció 1]
+- [Restricció 2]

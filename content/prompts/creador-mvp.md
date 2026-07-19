@@ -1,130 +1,30 @@
-# Creador d'MVP
+# Prompt: Creador Mvp
 
-## Objectiu
+## Rol
 
-Definir el Producte Mínim Viable (MVP) d'una idea eliminant qualsevol funcionalitat que no sigui imprescindible per validar-la amb usuaris reals.
+[Descripció del rol de la IA, ex: "Ets un expert en màrqueting digital"]
 
----
+## Tasca
 
-# Prompt
+[Descripció clara de la tasca que ha de realitzar la IA]
 
-Actua com un fundador de startups amb experiència en Lean Startup, Product Management i desenvolupament de SaaS.
+## Format
 
-La teva prioritat és reduir el temps entre la idea i la validació.
+[Especifica com ha de ser la resposta: llista, paràgrafs, taula, etc.]
 
-No intentis construir el producte perfecte.
+## To
 
-L'objectiu és aprendre el màxim amb el mínim esforç.
+[Defineix el to de la resposta: professional, divulgatiu, entusiasta, etc.]
 
-Idea:
+## Variables
 
-[IDEA]
+[Llista de variables que l'usuari ha de substituir, ex: [nom_producte], [public_objectiu]]
 
----
+## Exemple d'ús
 
-# 1. Resum
+[Breu exemple amb variables substituïdes]
 
-Descriu el producte en una frase.
+## Restriccions
 
----
-
-# 2. Hipòtesi principal
-
-Quina és la hipòtesi que cal demostrar?
-
-Formula-la de manera mesurable.
-
----
-
-# 3. Client inicial
-
-Defineix el primer tipus d'usuari.
-
-Inclou:
-
-- Perfil
-- Problema
-- Motivació
-- Com troba actualment una solució
-
----
-
-# 4. Funcionalitats
-
-Divideix-les en tres grups.
-
-## Imprescindibles
-
-Sense aquestes el producte no funciona.
-
-## Importants
-
-Aporten valor però poden esperar.
-
-## Innecessàries
-
-Eliminar-les del MVP.
-
----
-
-# 5. Desenvolupament
-
-Proposa l'ordre de construcció.
-
-Per a cada funcionalitat indica:
-
-- Temps estimat
-- Dificultat
-- Valor aportat
-
----
-
-# 6. Validació
-
-Com es demostrarà que el MVP funciona?
-
-Defineix:
-
-- Mètrica principal
-- Mètriques secundàries
-- Llindar d'èxit
-
----
-
-# 7. Llançament
-
-Explica:
-
-- Com aconseguir els primers usuaris.
-- Com obtenir feedback.
-- Quines dades recopilar.
-
----
-
-# 8. Iteració
-
-Després del primer llançament:
-
-- Què mantenir.
-- Què eliminar.
-- Què millorar.
-
----
-
-# 9. Errors habituals
-
-Llista els errors més freqüents en construir un MVP.
-
-Explica com evitar-los.
-
----
-
-# 10. Veredicte
-
-Respon:
-
-- Es pot construir en menys de dues setmanes?
-- Es pot validar sense desenvolupament complet?
-- Quin és el primer pas executable avui mateix?
-
-Finalitza amb una checklist de les primeres 10 accions necessàries per tenir el MVP llest.
+- [Restricció 1]
+- [Restricció 2]

@@ -1,10 +1,30 @@
-# Prompt de configuració inicial
+# Prompt: Init Context
 
-## Objectiu
-Carregar el context d'un projecte per primera vegada i establir la línia base.
+## Rol
 
-## Instruccions
-1. Llegeix PROJECT_RULES.md, PROJECT.md, TODO.md, SESSION.md i docs/*.
-2. Identifica l'estat actual del projecte.
-3. Proposa la següent tasca segons TODO.md.
-4. No generis codi encara, només anàlisi i planificació.
+[Descripció del rol de la IA, ex: "Ets un expert en màrqueting digital"]
+
+## Tasca
+
+[Descripció clara de la tasca que ha de realitzar la IA]
+
+## Format
+
+[Especifica com ha de ser la resposta: llista, paràgrafs, taula, etc.]
+
+## To
+
+[Defineix el to de la resposta: professional, divulgatiu, entusiasta, etc.]
+
+## Variables
+
+[Llista de variables que l'usuari ha de substituir, ex: [nom_producte], [public_objectiu]]
+
+## Exemple d'ús
+
+[Breu exemple amb variables substituïdes]
+
+## Restriccions
+
+- [Restricció 1]
+- [Restricció 2]

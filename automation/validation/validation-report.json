@@ -1,0 +1,444 @@
+{
+  "timestamp": "2026-07-19T18:58:18.115595",
+  "total": 24,
+  "passed": 0,
+  "failed": 24,
+  "warnings": 0,
+  "results": [
+    {
+      "filename": "creador-productes.md",
+      "filepath": "content/prompts/creador-productes.md",
+      "status": "failed",
+      "issues": [
+        "Falta la secció requerida: Rol",
+        "Falta la secció requerida: Tasca",
+        "Falta la secció requerida: Format",
+        "Falta la secció requerida: To"
+      ],
+      "warnings": [
+        "Variable sense descripció: [IDEA]"
+      ],
+      "variables": [
+        "IDEA"
+      ],
+      "size": 2024,
+      "timestamp": "2026-07-19T18:58:18.096902"
+    },
+    {
+      "filename": "generate-doc.md",
+      "filepath": "content/prompts/generate-doc.md",
+      "status": "failed",
+      "issues": [
+        "Falta la secció requerida: Rol",
+        "Falta la secció requerida: Tasca",
+        "Falta la secció requerida: Format",
+        "Falta la secció requerida: To"
+      ],
+      "warnings": [],
+      "variables": [],
+      "size": 362,
+      "timestamp": "2026-07-19T18:58:18.099319"
+    },
+    {
+      "filename": "analista-competencia.md",
+      "filepath": "content/prompts/analista-competencia.md",
+      "status": "failed",
+      "issues": [
+        "Falta la secció requerida: Rol",
+        "Falta la secció requerida: Tasca",
+        "Falta la secció requerida: Format",
+        "Falta la secció requerida: To"
+      ],
+      "warnings": [
+        "Variable sense descripció: [DESCRIPCIÓ]"
+      ],
+      "variables": [
+        "DESCRIPCIÓ"
+      ],
+      "size": 1942,
+      "timestamp": "2026-07-19T18:58:18.100052"
+    },
+    {
+      "filename": "consultor-automatitzacio.md",
+      "filepath": "content/prompts/consultor-automatitzacio.md",
+      "status": "failed",
+      "issues": [
+        "Falta la secció requerida: Rol",
+        "Falta la secció requerida: Tasca",
+        "Falta la secció requerida: Format",
+        "Falta la secció requerida: To"
+      ],
+      "warnings": [
+        "Variable sense descripció: [DESCRIPCIÓ DEL PROCÉS]"
+      ],
+      "variables": [
+        "DESCRIPCIÓ DEL PROCÉS"
+      ],
+      "size": 2053,
+      "timestamp": "2026-07-19T18:58:18.101431"
+    },
+    {
+      "filename": "creador-mvp.md",
+      "filepath": "content/prompts/creador-mvp.md",
+      "status": "failed",
+      "issues": [
+        "Falta la secció requerida: Rol",
+        "Falta la secció requerida: Tasca",
+        "Falta la secció requerida: Format",
+        "Falta la secció requerida: To"
+      ],
+      "warnings": [
+        "Variable sense descripció: [IDEA]"
+      ],
+      "variables": [
+        "IDEA"
+      ],
+      "size": 1857,
+      "timestamp": "2026-07-19T18:58:18.102166"
+    },
+    {
+      "filename": "estratega-contingut.md",
+      "filepath": "content/prompts/estratega-contingut.md",
+      "status": "failed",
+      "issues": [
+        "Falta la secció requerida: Rol",
+        "Falta la secció requerida: Tasca",
+        "Falta la secció requerida: Format",
+        "Falta la secció requerida: To"
+      ],
+      "warnings": [
+        "Variable sense descripció: [PROJECTE]",
+        "Variable sense descripció: [PÚBLIC]",
+        "Variable sense descripció: [OBJECTIU]"
+      ],
+      "variables": [
+        "PROJECTE",
+        "OBJECTIU",
+        "PÚBLIC"
+      ],
+      "size": 2039,
+      "timestamp": "2026-07-19T18:58:18.102881"
+    },
+    {
+      "filename": "analista-seo.md",
+      "filepath": "content/prompts/analista-seo.md",
+      "status": "failed",
+      "issues": [
+        "Falta la secció requerida: Rol",
+        "Falta la secció requerida: Tasca",
+        "Falta la secció requerida: Format",
+        "Falta la secció requerida: To"
+      ],
+      "warnings": [
+        "Variable sense descripció: [CONTINGUT]",
+        "Variable sense descripció: [TEMA]"
+      ],
+      "variables": [
+        "CONTINGUT",
+        "TEMA"
+      ],
+      "size": 1602,
+      "timestamp": "2026-07-19T18:58:18.103537"
+    },
+    {
+      "filename": "analitzador-idees.md",
+      "filepath": "content/prompts/analitzador-idees.md",
+      "status": "failed",
+      "issues": [
+        "Falta la secció requerida: Rol",
+        "Falta la secció requerida: Tasca",
+        "Falta la secció requerida: Format",
+        "Falta la secció requerida: To"
+      ],
+      "warnings": [
+        "Variable sense descripció: [IDEA]"
+      ],
+      "variables": [
+        "IDEA"
+      ],
+      "size": 1565,
+      "timestamp": "2026-07-19T18:58:18.104192"
+    },
+    {
+      "filename": "investigador-mercat.md",
+      "filepath": "content/prompts/investigador-mercat.md",
+      "status": "failed",
+      "issues": [
+        "Falta la secció requerida: Rol",
+        "Falta la secció requerida: Tasca",
+        "Falta la secció requerida: Format",
+        "Falta la secció requerida: To"
+      ],
+      "warnings": [
+        "Variable sense descripció: [MERCAT O NÍNXOL]"
+      ],
+      "variables": [
+        "MERCAT O NÍNXOL"
+      ],
+      "size": 1758,
+      "timestamp": "2026-07-19T18:58:18.105187"
+    },
+    {
+      "filename": "mentor-programacio.md",
+      "filepath": "content/prompts/mentor-programacio.md",
+      "status": "failed",
+      "issues": [
+        "Falta la secció requerida: Rol",
+        "Falta la secció requerida: Tasca",
+        "Falta la secció requerida: Format",
+        "Falta la secció requerida: To",
+        "El prompt és massa curt (menys de 50 caràcters)"
+      ],
+      "warnings": [],
+      "variables": [],
+      "size": 0,
+      "timestamp": "2026-07-19T18:58:18.105512"
+    },
+    {
+      "filename": "generador-contingut.md",
+      "filepath": "content/prompts/generador-contingut.md",
+      "status": "failed",
+      "issues": [
+        "Falta la secció requerida: Rol",
+        "Falta la secció requerida: Tasca",
+        "Falta la secció requerida: Format",
+        "Falta la secció requerida: To",
+        "Variable amb format incorrecte: [Pega aquí el tema]",
+        "Variable amb format incorrecte: [Públic objectiu]"
+      ],
+      "warnings": [
+        "Variable sense descripció: [Pega aquí el tema]",
+        "Variable sense descripció: [Públic objectiu]"
+      ],
+      "variables": [
+        "Públic objectiu",
+        "Pega aquí el tema"
+      ],
+      "size": 1448,
+      "timestamp": "2026-07-19T18:58:18.106083"
+    },
+    {
+      "filename": "creador-documentacio.md",
+      "filepath": "content/prompts/creador-documentacio.md",
+      "status": "failed",
+      "issues": [
+        "Falta la secció requerida: Rol",
+        "Falta la secció requerida: Tasca",
+        "Falta la secció requerida: Format",
+        "Falta la secció requerida: To",
+        "El prompt és massa curt (menys de 50 caràcters)"
+      ],
+      "warnings": [],
+      "variables": [],
+      "size": 0,
+      "timestamp": "2026-07-19T18:58:18.106388"
+    },
+    {
+      "filename": "auditor-projecte.md",
+      "filepath": "content/prompts/auditor-projecte.md",
+      "status": "failed",
+      "issues": [
+        "Falta la secció requerida: Rol",
+        "Falta la secció requerida: Tasca",
+        "Falta la secció requerida: Format",
+        "Falta la secció requerida: To",
+        "El prompt és massa curt (menys de 50 caràcters)"
+      ],
+      "warnings": [],
+      "variables": [],
+      "size": 0,
+      "timestamp": "2026-07-19T18:58:18.106587"
+    },
+    {
+      "filename": "validate-content.md",
+      "filepath": "content/prompts/validate-content.md",
+      "status": "failed",
+      "issues": [
+        "Falta la secció requerida: Rol",
+        "Falta la secció requerida: Tasca",
+        "Falta la secció requerida: Format",
+        "Falta la secció requerida: To"
+      ],
+      "warnings": [],
+      "variables": [],
+      "size": 291,
+      "timestamp": "2026-07-19T18:58:18.107226"
+    },
+    {
+      "filename": "revisor-critic.md",
+      "filepath": "content/prompts/revisor-critic.md",
+      "status": "failed",
+      "issues": [
+        "Falta la secció requerida: Rol",
+        "Falta la secció requerida: Tasca",
+        "Falta la secció requerida: Format",
+        "Falta la secció requerida: To"
+      ],
+      "warnings": [
+        "Variable sense descripció: [CONTINGUT]"
+      ],
+      "variables": [
+        "CONTINGUT"
+      ],
+      "size": 1688,
+      "timestamp": "2026-07-19T18:58:18.107854"
+    },
+    {
+      "filename": "arquitecte-saas.md",
+      "filepath": "content/prompts/arquitecte-saas.md",
+      "status": "failed",
+      "issues": [
+        "Falta la secció requerida: Rol",
+        "Falta la secció requerida: Tasca",
+        "Falta la secció requerida: Format",
+        "Falta la secció requerida: To"
+      ],
+      "warnings": [
+        "Variable sense descripció: [IDEA]"
+      ],
+      "variables": [
+        "IDEA"
+      ],
+      "size": 1943,
+      "timestamp": "2026-07-19T18:58:18.108387"
+    },
+    {
+      "filename": "system.md",
+      "filepath": "content/prompts/system.md",
+      "status": "failed",
+      "issues": [
+        "Falta la secció requerida: Rol",
+        "Falta la secció requerida: Tasca",
+        "Falta la secció requerida: Format",
+        "Falta la secció requerida: To"
+      ],
+      "warnings": [],
+      "variables": [],
+      "size": 120,
+      "timestamp": "2026-07-19T18:58:18.108795"
+    },
+    {
+      "filename": "estratega-monetitzacio.md",
+      "filepath": "content/prompts/estratega-monetitzacio.md",
+      "status": "failed",
+      "issues": [
+        "Falta la secció requerida: Rol",
+        "Falta la secció requerida: Tasca",
+        "Falta la secció requerida: Format",
+        "Falta la secció requerida: To"
+      ],
+      "warnings": [
+        "Variable sense descripció: [DESCRIPCIÓ]"
+      ],
+      "variables": [
+        "DESCRIPCIÓ"
+      ],
+      "size": 1938,
+      "timestamp": "2026-07-19T18:58:18.109248"
+    },
+    {
+      "filename": "generador-saas.md",
+      "filepath": "content/prompts/generador-saas.md",
+      "status": "failed",
+      "issues": [
+        "Falta la secció requerida: Rol",
+        "Falta la secció requerida: Tasca",
+        "Falta la secció requerida: Format",
+        "Falta la secció requerida: To"
+      ],
+      "warnings": [
+        "Variable sense descripció: [IDEA]"
+      ],
+      "variables": [
+        "IDEA"
+      ],
+      "size": 2149,
+      "timestamp": "2026-07-19T18:58:18.109778"
+    },
+    {
+      "filename": "init-context.md",
+      "filepath": "content/prompts/init-context.md",
+      "status": "failed",
+      "issues": [
+        "Falta la secció requerida: Rol",
+        "Falta la secció requerida: Tasca",
+        "Falta la secció requerida: Format",
+        "Falta la secció requerida: To"
+      ],
+      "warnings": [],
+      "variables": [],
+      "size": 357,
+      "timestamp": "2026-07-19T18:58:18.111005"
+    },
+    {
+      "filename": "optimitzador-prompts.md",
+      "filepath": "content/prompts/optimitzador-prompts.md",
+      "status": "failed",
+      "issues": [
+        "Falta la secció requerida: Rol",
+        "Falta la secció requerida: Tasca",
+        "Falta la secció requerida: Format",
+        "Falta la secció requerida: To"
+      ],
+      "warnings": [
+        "Variable sense descripció: [PROMPT]"
+      ],
+      "variables": [
+        "PROMPT"
+      ],
+      "size": 1450,
+      "timestamp": "2026-07-19T18:58:18.111698"
+    },
+    {
+      "filename": "planificador-projectes.md",
+      "filepath": "content/prompts/planificador-projectes.md",
+      "status": "failed",
+      "issues": [
+        "Falta la secció requerida: Rol",
+        "Falta la secció requerida: Tasca",
+        "Falta la secció requerida: Format",
+        "Falta la secció requerida: To"
+      ],
+      "warnings": [
+        "Variable sense descripció: [DESCRIPCIÓ]"
+      ],
+      "variables": [
+        "DESCRIPCIÓ"
+      ],
+      "size": 1801,
+      "timestamp": "2026-07-19T18:58:18.112429"
+    },
+    {
+      "filename": "optimitzador-codi.md",
+      "filepath": "content/prompts/optimitzador-codi.md",
+      "status": "failed",
+      "issues": [
+        "Falta la secció requerida: Rol",
+        "Falta la secció requerida: Tasca",
+        "Falta la secció requerida: Format",
+        "Falta la secció requerida: To",
+        "El prompt és massa curt (menys de 50 caràcters)"
+      ],
+      "warnings": [],
+      "variables": [],
+      "size": 0,
+      "timestamp": "2026-07-19T18:58:18.112738"
+    },
+    {
+      "filename": "investigador-tecnologies.md",
+      "filepath": "content/prompts/investigador-tecnologies.md",
+      "status": "failed",
+      "issues": [
+        "Falta la secció requerida: Rol",
+        "Falta la secció requerida: Tasca",
+        "Falta la secció requerida: Format",
+        "Falta la secció requerida: To",
+        "El prompt és massa curt (menys de 50 caràcters)"
+      ],
+      "warnings": [],
+      "variables": [],
+      "size": 0,
+      "timestamp": "2026-07-19T18:58:18.112942"
+    }
+  ]
+}

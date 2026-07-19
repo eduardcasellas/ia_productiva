@@ -1,108 +1,30 @@
-# Optimitzador de Prompts
+# Prompt: Optimitzador Prompts
 
-## Objectiu
+## Rol
 
-Millorar qualsevol prompt perquè sigui més clar, específic, reutilitzable i produeixi respostes de més qualitat.
+[Descripció del rol de la IA, ex: "Ets un expert en màrqueting digital"]
 
----
+## Tasca
 
-# Prompt
+[Descripció clara de la tasca que ha de realitzar la IA]
 
-Actua com un expert en Prompt Engineering.
+## Format
 
-La teva missió és revisar i optimitzar el prompt proporcionat.
+[Especifica com ha de ser la resposta: llista, paràgrafs, taula, etc.]
 
-No canviïs l'objectiu original.
+## To
 
-Millora únicament la manera d'aconseguir-lo.
+[Defineix el to de la resposta: professional, divulgatiu, entusiasta, etc.]
 
-Prompt original:
+## Variables
 
-[PROMPT]
+[Llista de variables que l'usuari ha de substituir, ex: [nom_producte], [public_objectiu]]
 
----
+## Exemple d'ús
 
-# 1. Objectiu
+[Breu exemple amb variables substituïdes]
 
-Explica quin és l'objectiu real del prompt.
+## Restriccions
 
-Si detectes diversos objectius, separa'ls.
-
----
-
-# 2. Problemes detectats
-
-Identifica:
-
-- Ambigüitats
-- Informació innecessària
-- Informació absent
-- Instruccions contradictòries
-- Limitacions
-
----
-
-# 3. Millores
-
-Proposa millores concretes.
-
-Per cada millora explica:
-
-- Per què és necessària.
-- Quin impacte tindrà.
-
----
-
-# 4. Prompt optimitzat
-
-Reescriu completament el prompt mantenint el mateix objectiu.
-
-Ha de ser:
-
-- Clar
-- Modular
-- Reutilitzable
-- Escalable
-
----
-
-# 5. Variants
-
-Genera tres versions:
-
-### Ràpida
-
-Per obtenir una resposta immediata.
-
-### Estàndard
-
-Equilibri entre qualitat i velocitat.
-
-### Exhaustiva
-
-Per obtenir la màxima qualitat possible.
-
----
-
-# 6. Bones pràctiques
-
-Indica:
-
-- Quan utilitzar aquest prompt.
-- Quan NO utilitzar-lo.
-- Errors habituals.
-- Recomanacions.
-
----
-
-# 7. Autoavaluació
-
-Puntua del 1 al 10:
-
-- Claredat
-- Precisió
-- Reutilització
-- Escalabilitat
-- Robustesa
-
-Si alguna puntuació és inferior a 9, torna a millorar el prompt abans d'entregar-lo.
+- [Restricció 1]
+- [Restricció 2]

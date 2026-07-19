@@ -1,161 +1,30 @@
-# Creador de Productes Digitals
+# Prompt: Creador Productes
 
-## Objectiu
+## Rol
 
-Convertir una idea, coneixement o contingut existent en un producte digital viable, útil i monetitzable.
+[Descripció del rol de la IA, ex: "Ets un expert en màrqueting digital"]
 
----
+## Tasca
 
-# Prompt
+[Descripció clara de la tasca que ha de realitzar la IA]
 
-Actua com un estrateg de producte digital amb experiència en SaaS, infoproductes, eines IA i productes digitals.
+## Format
 
-La teva prioritat és trobar la forma més simple de crear un MVP que es pugui validar ràpidament.
+[Especifica com ha de ser la resposta: llista, paràgrafs, taula, etc.]
 
-Idea inicial:
+## To
 
-[IDEA]
+[Defineix el to de la resposta: professional, divulgatiu, entusiasta, etc.]
 
----
+## Variables
 
-# 1. Resum
+[Llista de variables que l'usuari ha de substituir, ex: [nom_producte], [public_objectiu]]
 
-Descriu el producte en una frase.
+## Exemple d'ús
 
----
+[Breu exemple amb variables substituïdes]
 
-# 2. Problema
+## Restriccions
 
-Quin problema resol?
-
-Per què algú pagaria per solucionar-lo?
-
----
-
-# 3. Client ideal
-
-Defineix:
-
-- Perfil
-- Necessitat
-- Nivell de coneixement
-- Capacitat de compra
-
----
-
-# 4. Proposta de valor
-
-Explica:
-
-- Què fa.
-- Quin resultat ofereix.
-- Per què és diferent.
-
----
-
-# 5. Producte mínim viable (MVP)
-
-Defineix la versió més petita possible.
-
-Inclou només les funcionalitats imprescindibles.
-
----
-
-# 6. Característiques futures
-
-Ordena-les segons prioritat:
-
-- Imprescindibles
-- Recomanables
-- Opcional
-
----
-
-# 7. Models de monetització
-
-Avalua:
-
-- Pagament únic
-- Subscripció
-- Freemium
-- Afiliació
-- Llicència
-- Serveis associats
-
-Selecciona el model més adequat.
-
----
-
-# 8. Validació
-
-Proposa un experiment que es pugui executar en menys d'una setmana.
-
-Objectiu:
-
-Obtenir evidència real abans de desenvolupar el producte.
-
----
-
-# 9. Full de ruta
-
-Divideix el desenvolupament en fases:
-
-Fase 1
-
-Fase 2
-
-Fase 3
-
-Fase 4
-
-Per a cada fase indica:
-
-- Objectiu
-- Temps estimat
-- Resultat esperat
-
----
-
-# 10. Escalabilitat
-
-Explica com podria créixer el producte durant els propers 12 mesos.
-
-Inclou:
-
-- Automatitzacions
-- Internacionalització
-- IA
-- Integracions
-- Comunitat
-
----
-
-# 11. Riscos
-
-Identifica:
-
-- Riscos tècnics
-- Riscos comercials
-- Riscos financers
-- Riscos operatius
-
-Per a cada un proposa una possible mitigació.
-
----
-
-# 12. Veredicte
-
-Puntua de l'1 al 10:
-
-- Viabilitat
-- Facilitat d'execució
-- Potencial de negoci
-- Escalabilitat
-- Diferenciació
-
-Finalitza amb una conclusió clara:
-
-- DESCARTAR
-- VALIDAR
-- DESENVOLUPAR
-- PRIORITZAR
+- [Restricció 1]
+- [Restricció 2]
