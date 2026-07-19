@@ -13,5 +13,6 @@ TASCA ACTUAL:
 Instruccions:
 - Analitza el context i la tasca.
 - Proposa una solució detallada seguint l'arquitectura i convencions del projecte.
-- No generis codi encara, només l'anàlisi i la planificació.
+- **Si la tasca requereix crear fitxers, genera el codi Python necessari per crear-los dins d'un bloc ```python ... ```.**
+- **No generis només text; el codi ha de ser executable directament.**
 """

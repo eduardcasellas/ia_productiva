@@ -1,0 +1,29 @@
+name: Check Conventions
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  check-conventions:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check file names are lowercase with hyphens
+        run: |
+          echo "Checking file naming conventions..."
+          # Find files that don't follow lowercase-with-hyphens pattern
+          find . -type f -name '*[A-Z]*' -o -name '* *' | grep -v '.git/' | grep -v 'node_modules/' || echo "All files follow conventions"
+      - name: Check folder structure
+        run: |
+          echo "Checking folder structure..."
+          required_dirs="content/prompts content/templates resources/snippets resources/checklists automation/github automation/scripts website/pages branding assets/images assets/icons analytics archive"
+          for dir in $required_dirs; do
+            if [ -d "$dir" ]; then
+              echo "✅ $dir exists"
+            else
+              echo "❌ $dir missing"
+            fi
+          done
